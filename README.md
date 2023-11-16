@@ -41,6 +41,11 @@ A classic Pong game implemented in Python using OOP and the Turtle graphics libr
 - Python 3.x
 - Turtle graphics library (pre-installed with Python)
 
+## Screenshots
+
+![Screenshot1](https://github.com/tudorberbecaru/pong-game/blob/master/.github/Screenshot1.png)
+![Screenshot2](https://github.com/tudorberbecaru/pong-game/blob/master/.github/Screenshot2.png)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
